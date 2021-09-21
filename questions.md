@@ -17,3 +17,6 @@ Days venue is not available or teams request to not play.
     - Can manage the schedule for their assigned team.
 - Administrator
     - Can manage all schedules for all teams and manage roles.
+
+### Website to Open the Diagram
+- https://app.diagrams.net/
