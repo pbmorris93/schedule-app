@@ -7,16 +7,29 @@ Days venue is not available or teams request to not play.
 
 ### Questions
 
-- Can players belong to multiple teams? Mayhaps.
-- Do we need to schedule umpires/staff?
+- Can players belong to multiple teams? - No.
+- Do we need to schedule umpires/staff? - No
+
+Users can be umpires or refs. Not always a player.
 
 #### Role Structure?
 - Player
     - Can only view all scheduled games.
 - Team Manager
-    - Can manage the schedule for their assigned team.
+    - Can enter score data for their own team.
 - Administrator
     - Can manage all schedules for all teams and manage roles.
 
 ### Website to Open the Diagram
 - https://app.diagrams.net/
+
+### Tech Stack
+#### Database
+- MongoDB
+
+#### Backend
+- Node.js - Express
+
+#### Frontend
+- Angular/Vue/React?
+    - Mobile Front End: Flutter
