@@ -6,7 +6,7 @@ const port = process.env.PORT || 3000; // define the port for the server to list
 
 // Define a GET endpoint that returns "Hello world" to the user.
 app.get('/test/', (req, res) => {
-    res.send(`Hello world!`);
+    res.send(`Hello y'all!`);
 });
 
 // Tell the app to listen on the defined port.
