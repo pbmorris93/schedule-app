@@ -9,5 +9,5 @@ app.get('/test/', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`API listening!!`
+    console.log(`API listening!!`);
 });
